@@ -1,3 +1,4 @@
+# <div align="center"> MADE WITH ❤️ BY DXN1
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B14,50:7E57C2,100:00E5FF&height=200&section=header&text=DXN1-RPG%27S&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Ultimate%20Discord%20RPG%20Bot%20v2.1&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
